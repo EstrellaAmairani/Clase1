@@ -1,2 +1,2 @@
-archivo local
-sgregsr linea 2 local
+archivo linea editada local
+segunda linea remota
