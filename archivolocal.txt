@@ -1,3 +1,5 @@
 archivo linea editada local
 segunda linea remotafgfh
 nueva lineastyr
+segunda linea remotas
+tercera linea nueva
